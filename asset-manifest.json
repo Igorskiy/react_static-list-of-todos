@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Igorskiy/react_static-list-of-todos.git/static/css/main.4389b2f7.chunk.css",
-    "main.js": "/Igorskiy/react_static-list-of-todos.git/static/js/main.aa62a4f0.chunk.js",
-    "main.js.map": "/Igorskiy/react_static-list-of-todos.git/static/js/main.aa62a4f0.chunk.js.map",
-    "runtime~main.js": "/Igorskiy/react_static-list-of-todos.git/static/js/runtime~main.e14d191d.js",
-    "runtime~main.js.map": "/Igorskiy/react_static-list-of-todos.git/static/js/runtime~main.e14d191d.js.map",
-    "static/js/2.ac52ec64.chunk.js": "/Igorskiy/react_static-list-of-todos.git/static/js/2.ac52ec64.chunk.js",
-    "static/js/2.ac52ec64.chunk.js.map": "/Igorskiy/react_static-list-of-todos.git/static/js/2.ac52ec64.chunk.js.map",
-    "index.html": "/Igorskiy/react_static-list-of-todos.git/index.html",
-    "precache-manifest.c656850a9ee832241e70ffe2dbfdaf75.js": "/Igorskiy/react_static-list-of-todos.git/precache-manifest.c656850a9ee832241e70ffe2dbfdaf75.js",
-    "service-worker.js": "/Igorskiy/react_static-list-of-todos.git/service-worker.js",
-    "static/css/main.4389b2f7.chunk.css.map": "/Igorskiy/react_static-list-of-todos.git/static/css/main.4389b2f7.chunk.css.map"
+    "main.css": "/react_static-list-of-todos/static/css/main.4389b2f7.chunk.css",
+    "main.js": "/react_static-list-of-todos/static/js/main.aa62a4f0.chunk.js",
+    "main.js.map": "/react_static-list-of-todos/static/js/main.aa62a4f0.chunk.js.map",
+    "runtime~main.js": "/react_static-list-of-todos/static/js/runtime~main.00529491.js",
+    "runtime~main.js.map": "/react_static-list-of-todos/static/js/runtime~main.00529491.js.map",
+    "static/js/2.ac52ec64.chunk.js": "/react_static-list-of-todos/static/js/2.ac52ec64.chunk.js",
+    "static/js/2.ac52ec64.chunk.js.map": "/react_static-list-of-todos/static/js/2.ac52ec64.chunk.js.map",
+    "index.html": "/react_static-list-of-todos/index.html",
+    "precache-manifest.91417f095489dbdf5374861dd8bd4532.js": "/react_static-list-of-todos/precache-manifest.91417f095489dbdf5374861dd8bd4532.js",
+    "service-worker.js": "/react_static-list-of-todos/service-worker.js",
+    "static/css/main.4389b2f7.chunk.css.map": "/react_static-list-of-todos/static/css/main.4389b2f7.chunk.css.map"
   }
 }
